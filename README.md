@@ -1,4 +1,4 @@
-# Elysia Lucia Boilerplate
+# Elysia OAuth Boilerplate
 
 Repository showing the boilerplate used to integrate [Elysia](https://elysiajs.com/) with OAuth from [arctic](https://arcticjs.dev/).
 
